@@ -1,0 +1,17 @@
+*{
+}
+body{
+    text-align: center;
+}
+
+a{
+    text-decoration: dotted;
+    color: aliceblue;
+}
+
+a:hover{
+    color: rgb(23, 150, 65);
+
+}
+
+
